@@ -1,1 +1,5 @@
+---
+language: LANGUAGE
+---
+
 # occult-lang
