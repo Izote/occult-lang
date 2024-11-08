@@ -1,5 +1,2 @@
----
-language: LANGUAGE
----
 
 # occult-lang
