@@ -1,22 +1,20 @@
 # Overview
 
-The <span id="Occultlang/Overview.md/language"/>LANGUAGE<span type="end"/> phonological inventory consists of 14 consonants along with 3 vowels. Vowel backness is an important feature of the sound system covered in a subsequent section. 
-
+The <span id="Occultlang/Overview.md/language"/>LANGUAGE<span type="end"/> phonological inventory consists of 14 consonants along with 3 vowels. The syllable structure and stress system are simple and easily predictable. Vowel backness is an important feature of the sound system covered in a subsequent section. 
 # Syllable structure and stress
 
 The maximal standard syllable is `CV(C)` where the lateral approximant *l* may appear in the nucleus position as though it were a vowel. In this context, a syllabic `l` must be the only `l` in the entire syllable.
-
 # Inventory
 
 ## Consonants
 
-|                         | **Bilabial** | **Labiodental** | **Dental** | **Alveolar** | **Postalveolar** | **Palatal** | **Velar** | **Uvular** | **Pharyngeal** | **Glottal** |
-| ----------------------- | :----------: | :-------------: | :--------: | :----------: | :--------------: | :---------: | :-------: | :--------: | :------------: | :---------: |
-| **Plosive**             |              |                 |     t      |              |                  |             |     k     |     q      |                |      ʔ      |
-| **Nasal**               |      m       |                 |            |      n       |                  |             |           |            |                |             |
-| **Fricative**           |              |        f        |            |      s       |        ʃ         |             |           |            |       ħ        |      h      |
-| **Approximant**         |              |                 |            |              |                  |      j      |           |            |                |             |
-| **Lateral Approximant** |              |                 |            |      l       |                  |             |           |            |                |             |
+|                         | **Bilabial** | **Dental** | **Alveolar** | **Postalveolar** | **Palatal** | **Velar** | **Uvular** | **Pharyngeal** | **Glottal** |
+| ----------------------- | :----------: | :--------: | :----------: | :--------------: | :---------: | :-------: | :--------: | :------------: | :---------: |
+| **Plosive**             |              |     t      |              |                  |             |     k     |     q      |                |      ʔ      |
+| **Nasal**               |      m       |            |      n       |                  |             |           |            |                |             |
+| **Fricative**           |              |            |      s       |        ʃ         |             |           |            |       ħ        |      h      |
+| **Approximant**         |              |            |              |                  |      j      |           |            |                |             |
+| **Lateral Approximant** |              |            |      l       |                  |             |           |            |                |             |
 
 |        **Articulation**         | **Symbol** |
 | :-----------------------------: | :--------: |
@@ -29,6 +27,12 @@ The maximal standard syllable is `CV(C)` where the lateral approximant *l* may a
 |  **Mid**  |     e     |             |          |
 | **Open**  |           |      ä      |          |
 # Phonotactics
+
+## Consonant deletion
+
+This section discusses the various contexts in which consonants are deleted or dropped from speech.
+
+Glottal consonants are deleted when affixing results in a cluster, causing preceding vowels to lengthen.
 
 ## Vowel lowering
 
